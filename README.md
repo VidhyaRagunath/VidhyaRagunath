@@ -1,4 +1,4 @@
-- Hi, I’m @VidhyaRagunath
+- VidhyaRagunath
 - Senior Software Developer
 
 
